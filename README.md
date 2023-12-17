@@ -1,4 +1,5 @@
-# 💤 LazyVim
 
-A starter template for [LazyVim](https://github.com/LazyVim/LazyVim).
-Refer to the [documentation](https://lazyvim.github.io/installation) to get started.
+# prsm3/nvim-config
+
+This is my nvim config, based on the lazyvim config.
+
